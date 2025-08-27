@@ -27,5 +27,7 @@ Building secure, scalable, and intelligent systems for the global market.
 - DevExtreme, Syncfusion  
 ---
 
-
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasesmutembei11&count_private=true&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasesmutembei11&count_private=true&layout=compact&theme=radical)
 
