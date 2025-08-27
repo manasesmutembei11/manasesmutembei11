@@ -25,15 +25,7 @@ Building secure, scalable, and intelligent systems for the global market.
 - Docker | Kubernetes | Fly.io | Azure | AWS | GCP  
 - Git, GitHub, CI/CD, Autofac  
 - DevExtreme, Syncfusion  
-- 
 ---
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasesmutembei11&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasesmutembei11&layout=compact&theme=radical)
-
----
 
 
