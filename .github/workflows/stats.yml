@@ -14,7 +14,7 @@ jobs:
 
       - name: Generate Stats
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}   # <-- secure reference
+          GITHUB_TOKEN: ${{ secrets.PAT }}   # <-- secure reference
         run: |
           echo "Token is ready to use securely"
           # You could call your stats generator here,
