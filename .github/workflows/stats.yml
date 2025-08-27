@@ -1,0 +1,21 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # runs every hour (you can change this)
+  workflow_dispatch:       # allow manual run from Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}   # <-- secure reference
+        run: |
+          echo "Token is ready to use securely"
+          # You could call your stats generator here,
+          # e.g. wget/curl to github-readme-stats with $GITHUB_TOKEN
