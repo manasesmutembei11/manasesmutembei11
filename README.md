@@ -1,28 +1,23 @@
-# 👋 Hi, I'm Manases Mutembei
+# About Me
 
-Dedicated lifelong learner 
-building secure, scalable, and intelligent systems for the global market.
+A passionate software developer with a strong focus on building scalable, maintainable applications across the full stack. Currently expanding expertise into AI and Machine Learning with Python to develop intelligent, data-driven solutions.
+
 ---
 
-## 🚀 About Me
-- 🔹 Passionate about **software development**.  
-- 🔹 Exploring **AI & ML with Python** to build intelligent applications.    
----
+## Tech Stack
 
-## 🛠️ Tech Stack
 **Languages & Frameworks**
-- C#, ASP.NET Core, 
+- C#, ASP.NET Core
 - Angular, React, TypeScript, JavaScript
-- Python (AI/ML, Data Science and Analysis)   
+- Python (AI/ML, Data Science and Analysis)
 
 **Databases**
 - SQL Server | PostgreSQL | MySQL | Firebase | Neon
 
 **Tools & Platforms**
 - Docker | Kubernetes
-- Fly.io | Azure | AWS | GCP  
+- Fly.io | Azure | AWS | GCP
 - Git, GitHub, CI/CD
-- Autofac, DevExtreme, Syncfusion, Entity Framework Core
-- Jupyter notebooks
----
-
+- Visual Studio | Visual Studio Code
+- Autofac | DevExtreme | Syncfusion | Entity Framework Core
+- Jupyter Notebooks
