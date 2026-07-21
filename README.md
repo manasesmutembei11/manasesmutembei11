@@ -57,3 +57,6 @@ Passionate software developer focused on building scalable, maintainable full-st
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=manasesmutembei11)](https://github.com/stats-organization/github-stats-extended)
